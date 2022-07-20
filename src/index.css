@@ -1,13 +1,93 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  overflow: scroll;
+  background-image: url("./assets/imagebackground.jpg");
+  background-repeat: no-repeat;
+}
+
+.carousel {
+  position: absolute;
+  box-shadow: 0px 2px 5px lightgrey;
+  top: 190px;
+  width: 37.8%;
+  height: 828px;
+  left: 38.2%;
+  background-color: white;
+}
+
+.cta {
+  position: absolute;
+  border-style: solid;
+  border-color: transparent;
+  font-family: 'Header';
+  top: 190px;
+  width: 37.5%;
+  height: 822px;
+  background-color: #c5c2bd;
+  line-height: 10pt;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+ .headertag {
+  font-family: 'Header';
+  font-size: 55px;
+  font-weight: normal;
+} 
+.ctaHeader {
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.ctatext {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 50%;
+  margin-left: 45%;
+  margin-bottom: 10%;
+  font-family: 'Header1';
+  font-weight: normal;
+}
+
+.ptag {
+  font-family: 'Header';
+  font-weight: normal;
+}
+
+button {    
+    background-color: Transparent;
+    border-color: black;
+    background-repeat:no-repeat;
+    border-style: solid;
+    cursor:pointer;
+    overflow: hidden;   
+    padding: 10px;   
+}
+
+
+button:hover {
+  border-color: yellow;
+}
+/* .cta:hover {
+  border-color: yellow;
+} */
+
+@font-face {
+  font-family: 'Header'; 
+  src: url('./assets/fonts/NHaasGroteskTXPro-55Rg.otf');
+}
+@font-face { 
+font-family: 'Header1'; 
+  src: url('./assets/fonts/NHaasGroteskTXPro-65Md.ttf');
+}
+@font-face {
+  font-family: 'Header2'; 
+  src: url('./assets/fonts/NHaasGroteskTXPro-75Bd.ttf');
+}
+
