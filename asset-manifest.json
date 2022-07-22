@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/club-monacotakehome/static/css/main.32a3e572.css",
+    "main.js": "/club-monacotakehome/static/js/main.b9bdbe5c.js",
+    "static/media/imagebackground.jpg": "/club-monacotakehome/static/media/imagebackground.b7891220862372c7f295.jpg",
+    "static/media/NHaasGroteskTXPro-65Md.ttf": "/club-monacotakehome/static/media/NHaasGroteskTXPro-65Md.13fc4bcc7d627880a120.ttf",
+    "static/media/NHaasGroteskTXPro-75Bd.ttf": "/club-monacotakehome/static/media/NHaasGroteskTXPro-75Bd.735104a20ca736af2b46.ttf",
+    "static/media/fifthmonaco.jpeg": "/club-monacotakehome/static/media/fifthmonaco.cb4c6cb4526ca52514af.jpeg",
+    "static/media/NHaasGroteskTXPro-55Rg.otf": "/club-monacotakehome/static/media/NHaasGroteskTXPro-55Rg.ffeb9a6c399fa6df07cd.otf",
+    "static/media/fourthmonaco.jpeg": "/club-monacotakehome/static/media/fourthmonaco.b798de798c1ebac868ba.jpeg",
+    "static/media/secondmonaco.jpeg": "/club-monacotakehome/static/media/secondmonaco.5ba5688a4889f0f0e76c.jpeg",
+    "static/media/thirdmonaco.jpeg": "/club-monacotakehome/static/media/thirdmonaco.b957f0f3b10ab94ef4a3.jpeg",
+    "static/media/homeclubmonaco.jpeg": "/club-monacotakehome/static/media/homeclubmonaco.ca244897efa3ae2feeee.jpeg",
+    "static/media/sixthmonaco.jpeg": "/club-monacotakehome/static/media/sixthmonaco.d5b6fd239e9dd64422da.jpeg",
+    "index.html": "/club-monacotakehome/index.html",
+    "main.32a3e572.css.map": "/club-monacotakehome/static/css/main.32a3e572.css.map",
+    "main.b9bdbe5c.js.map": "/club-monacotakehome/static/js/main.b9bdbe5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a3e572.css",
+    "static/js/main.b9bdbe5c.js"
+  ]
+}
